@@ -355,9 +355,8 @@ header .toggle img{
 }
 
 .banner2{
-  height: auto;
+  position: block;
 }
-
 
 .banner2::before,
 .banner3::before{
