@@ -354,13 +354,7 @@ header .toggle img{
   align-items: center;
 }
 
-.banner2{
-  height: 1200px;
-  background-image: url(/img/banner2.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
 
-}
 
 .banner2::before,
 .banner3::before{
