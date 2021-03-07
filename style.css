@@ -510,6 +510,10 @@ footer ul li a img{
     font-size: 1rem;
   }
 
+  .bannerMenu ul li a{
+    font-size: 1rem;
+  }
+
   .about{
     flex-direction: column;
   }
@@ -546,5 +550,7 @@ footer ul li a img{
     .destination .destinationList .box .imgBox{
       height: 320px;
     }
+
+
 
 }
