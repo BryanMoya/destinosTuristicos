@@ -355,7 +355,10 @@ header .toggle img{
 }
 
 .banner2{
-  position: block;
+  height: 600px;
+  background-image: url(/img/banner2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .banner2::before,
