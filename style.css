@@ -354,6 +354,9 @@ header .toggle img{
   align-items: center;
 }
 
+.banner2{
+  height: auto;
+}
 
 
 .banner2::before,
