@@ -354,6 +354,10 @@ header .toggle img{
   align-items: center;
 }
 
+.banner2 .imgBanner2{
+  max-height: 150vh;
+}
+
 .banner2::before,
 .banner3::before{
   content: '';
@@ -503,7 +507,7 @@ footer ul li a img{
 @media screen and (max-width: 767px){
  
   .banner .content h2{
-    font-size: 3rem;
+    font-size: 2.5rem;
   }
 
   .banner .content p{
