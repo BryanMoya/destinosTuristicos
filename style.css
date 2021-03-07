@@ -510,8 +510,11 @@ footer ul li a img{
     font-size: 1rem;
   }
 
+  .bannerMenu ul li{
+   padding: 0.5rem;
+  }
   .bannerMenu ul li a{
-    font-size: 1rem;
+    font-size: 1.1rem;
   }
 
   .about{
